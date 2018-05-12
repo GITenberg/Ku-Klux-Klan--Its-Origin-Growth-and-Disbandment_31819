@@ -1,0 +1,39 @@
+_repo: Ku-Klux-Klan--Its-Origin-Growth-and-Disbandment_31819
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Fleming, Walter L. (Walter Lynwood)
+    alias: Fleming, Walter Lynwood
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '1066'
+    url: http://www.gutenberg.org/2009/agents/1066
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lester, John C.
+    alias: Lester, J. C. (John C.)
+    gutenberg_agent_id: '35498'
+    url: http://www.gutenberg.org/2009/agents/35498
+  - agent_name: Wilson, D. L. (Daniel Love)
+    alias: Wilson, Daniel Love
+    birthdate: 1849
+    deathdate: 1902
+    gutenberg_agent_id: '35499'
+    url: http://www.gutenberg.org/2009/agents/35499
+description: ''
+gutenberg_issued: '2010-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ku Klux Klan (19th century)'
+- !lcc 'E660'
+title: 'Ku Klux Klan: Its Origin, Growth and Disbandment'
+url: http://www.gutenberg.org/ebooks/31819
