@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '35499'
     url: http://www.gutenberg.org/2009/agents/35499
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31819#Ku-Klux-Klan--Its-Origin-Growth-and-Disbandment
 gutenberg_issued: '2010-03-29'
 gutenberg_type: Text
 identifiers:
